@@ -1,11 +1,11 @@
 {
     "title": "QRScout",
-    "page_title": "Rebuilt",
+    "page_title": "Rust Belt Robotics",
     "delimiter": "\t",
-    "teamNumber": 2713,
+    "teamNumber": 424,
     "floatingField": {
         "show": false,
-        "codeValue": "424"
+        "codeValue": "teamNumber"
     },
     "theme": {
         "light": {
